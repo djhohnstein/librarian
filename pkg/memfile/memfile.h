@@ -1,0 +1,1 @@
+int open_ramfs(char*);
